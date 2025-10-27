@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Agbaje Abdulakeem Seun (Keematics)</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web & Mobile Applications</h3>
+<h3 align="center">FullStack Software Developer | Building Scalable Web & Mobile Applications</h3>
 
 ---
 
