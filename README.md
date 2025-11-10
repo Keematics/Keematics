@@ -4,7 +4,7 @@
 ---
 
 ### 🧑🏽‍💻 About Me
-I'm a **results-driven Full Stack Developer** passionate about building scalable, secure, and user-centric digital solutions.  
+I'm a **results-driven FullStack Software Developer** passionate about building scalable, secure, and user-centric digital solutions.  
 With hands-on experience across **backend, frontend, and system automation**, I specialize in transforming ideas into robust web and mobile products.  
 
 - 🌍 Open to **remote and global opportunities**
@@ -21,9 +21,9 @@ With hands-on experience across **backend, frontend, and system automation**, I 
 - UI frameworks: **TailwindCSS**, **Bootstrap**, **Framer Motion**, **Recharts**
 
 #### ⚙️ Backend
-- **Django REST Framework**, **Flask**, **FastAPI**, **Laravel**, **Spring Boot**
-- Asynchronous & background processing: **Celery**, **Redis**
-- API design, authentication, RBAC, and scalable MVC architecture
+- **Django REST Framework**, **Django Ninja**, **Flask**, **FastAPI**
+- Asynchronous & background processing: **Celery**, **Redis**, RabitMQ
+- API design, authentication, RBAC, and scalable MVC architecture, Rate-limitin, Throttling.
 
 #### 🧩 DevOps & Tools
 - **Docker**, **AWS**, **CI/CD Pipelines**, **Firebase**, **GitHub Actions**
